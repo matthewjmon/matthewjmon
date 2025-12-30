@@ -38,7 +38,7 @@ I’m a passionate developer focused on building responsive, user-focused web ap
 
 ## Contact Me
 - 📧 Email: monaghanmatt18@gmail.com  
-- 🔗 LinkedIn: [Your LinkedIn URL](http://www.linkedin.com/in/matthew-monaghan-b9742b311)  
-- 🖥️ Portfolio: [Your Portfolio URL](https://matthewjmon.github.io/matthew-monaghan-portfolio)
-- 🖥️ HyperionDev Portfolio: [HyperionDev Dashboard](https://www.hyperiondev.com/portfolio/MM25010017285/)
+- 🔗 LinkedIn: [My LinkedIn Profile](http://www.linkedin.com/in/matthew-monaghan-b9742b311)  
+- 🖥️ Portfolio: [My Portfolio Site](https://matthewjmon.github.io/matthew-monaghan-portfolio)
+- 🖥️ HyperionDev Portfolio: [My HyperionDev Portfolio](https://www.hyperiondev.com/portfolio/MM25010017285/)
 
